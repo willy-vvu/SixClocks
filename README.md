@@ -14,6 +14,7 @@ The current sun position is mirrored in this microcosm's day/night cycle.
 ![](World/World2.png)
 ![](World/World3.png)
 
+---
 
 ## 2. Journey
 
@@ -27,6 +28,7 @@ Time becomes distance as hours become mountains, passing slowly but surely.
 ![](Journey/Journey2.png)
 ![](Journey/Journey3.png)
 
+---
 
 ## 3. Scale
 
@@ -36,6 +38,7 @@ An exponentially warped space reveals time passage at multiple scales.
 
 [View in Browser](https://willy-vvu.github.io/SixClocks/ScaleClock)
 
+---
 
 ## 4. Grid
 
@@ -45,6 +48,7 @@ Each second is a dot, visualized across 12 hours.
 
 [View in Browser](https://willy-vvu.github.io/SixClocks/Clock04)
 
+---
 
 ## 5. Ring
 
@@ -54,6 +58,7 @@ Segments of concentric rings fill to tell the time.
 
 [View in Browser](https://willy-vvu.github.io/SixClocks/Clock06)
 
+---
 
 ## 6. Analog
 
@@ -62,7 +67,6 @@ Segments of concentric rings fill to tell the time.
 A stylized remake of the analog clock.
 
 [View in Browser](https://willy-vvu.github.io/SixClocks/Clock12)
-
 
 ---
 
