@@ -4,7 +4,7 @@ As an assignment for Information Design, we were tasked to design six clocks. No
 
 ## 1. World
 
-The current sun position is mirrored in this microcosm's day/night cycle.
+The current sun position is mirrored in this miniature landscape, complete with a day/night cycle.
 
 [View in Browser](https://willy-vvu.github.io/SixClocks/World)
 
